@@ -25,11 +25,13 @@ h1{
   flex: 1;
   text-align: end;
 }
+
 a{
   padding: 0.5em;
   margin: 1em;
   color: black;
 }
+
 a:hover{
   background-color: olivedrab;
   border-radius: 5px;
